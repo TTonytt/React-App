@@ -1,0 +1,18 @@
+.base-button{
+    border:none;
+    background: none;
+    box-shadow: 0 0 spx 0 slategray;
+    padding: 0.Srem lrem;
+    font-size: calc(lrem + Ivmin);
+    background:white;
+    color: slateblue;
+}
+.button-small{
+    border:none;
+    background: none;
+    box-shadow: 0 0 spx 0 slategray;
+    padding: 0.Srem 0.5rem;
+    font-size: calc(o.6125rem + Ivmin);
+    background:white;
+    color: red;
+}
